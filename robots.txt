@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ti-cecim.github.io/resources-fdjibo/sitemap.xml
